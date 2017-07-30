@@ -37,5 +37,14 @@ Custom styles: Iskender Piyale-Sheard;
 
 .cta .btn {
 	text-align: center;
-	float: right;
+	float: none;
+	margin-top: 15px;
+}
+
+
+@media only screen and (min-width: 250px) and (max-width: 767px) {
+	#startbutton {
+		text-align: center;
+	}
+
 }
