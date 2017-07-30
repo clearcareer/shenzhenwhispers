@@ -1,0 +1,36 @@
+
+
+/*------------------------------------------------------------------
+Theme Name: Mack - Responsive Bootstrap Landing Page
+Version:	2.0
+Custom styles: Iskender Piyale-Sheard;
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[TABLE OF CONTENTS]
+
+	1. GLOBAL STYLES
+	2. HEADER STYLES 
+	3. INTRO STYLES
+	4. ICON BOX / SERVICES STYLES 
+	5. INFO CONTENT
+	6. COMMON STYLES
+	7. FEATURE CONTENT 
+	8. TEAM
+	9. PRICING
+	10. APP FEATURES
+	11. TESTIMONIAL
+	12. SERVICE FEATURES
+	13. NEWSLETTER
+	14. FOOTER
+	15. RESPONSIVENESS 
+	
+-------------------------------------------------------------------*/
+
+/* =============================
+   1. HEADER STYLES 
+================================ */
+
+.intro span {
+    color: #1ebbf0;
+}
