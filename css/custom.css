@@ -34,3 +34,8 @@ Custom styles: Iskender Piyale-Sheard;
 .intro span {
     color: #1ebbf0;
 }
+
+.cta .btn {
+	text-align: center;
+	float: right;
+}
